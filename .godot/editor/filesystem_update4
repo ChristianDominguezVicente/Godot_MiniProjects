@@ -1,0 +1,4 @@
+res://Loops/Loops.tscn
+res://Loops/Loops.gd
+res://Collision/Collision.tscn
+res://Collision/PlayerMovement.gd

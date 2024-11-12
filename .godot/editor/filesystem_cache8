@@ -1,0 +1,20 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1725450699
+icon.svg::CompressedTexture2D::1668132479044554734::1725389047::1725389060::1::::<><>::
+::res://Balloon Popper/::1725442102
+Ballon.tres::StandardMaterial3D::1198759976416974651::1725437483::0::1::::<><>::
+Balloon.gd::GDScript::-1::1725439363::0::1::::<>Area3D<>::
+Balloon.tscn::PackedScene::3369090883243820339::1725438348::0::1::::<><>::res://Balloon Popper/Balloon.gd<>uid://rcxnwli3lxw2::::res://Balloon Popper/Ballon.tres
+BalloonManager.gd::GDScript::-1::1725439578::0::1::::<>Node3D<>::
+BalloonPopper.tscn::PackedScene::859808358971972694::1725442102::0::1::::<><>::res://Balloon Popper/BalloonManager.gd<>uid://boaao1of6p8qh::::res://Balloon Popper/Balloon.tscn
+::res://Loops/::1725450702
+Loops.tscn::PackedScene::6374193493550417025::1725450702::0::1::::<><>::res://Loops/Loops.gd
+Loops.gd::GDScript::-1::1725450631::0::1::::<>Node2D<>::
+Star.tscn::PackedScene::5528655979062713036::1725450119::0::1::::<><>::uid://b6raqclnbl5wm::::res://Loops/Star.png
+Star.png::CompressedTexture2D::4597397953625612984::1725449386::1725449395::1::::<><>::
+::res://Physics/::1725442131
+Crate.png::CompressedTexture2D::6615684120394319599::1725440812::1725440818::1::::<><>::
+Crate.tscn::PackedScene::3218440355234038376::1725441928::0::1::::<><>::uid://c1ixl6v0owhoh::::res://Physics/Crate.png
+Physics.tscn::PackedScene::3416021642451649347::1725442131::0::1::::<><>::uid://bx5t4f1aupj2y::::res://Physics/PhysicsCharacter.png<>res://Physics/PhysicsPlayer.gd<>uid://bl4biiiq36cqi::::res://Physics/Crate.tscn
+PhysicsCharacter.png::CompressedTexture2D::4063901133684437130::1725440812::1725440820::1::::<><>::
+PhysicsPlayer.gd::GDScript::-1::1725441446::0::1::::<>RigidBody2D<>::

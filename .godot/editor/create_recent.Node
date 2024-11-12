@@ -1,0 +1,13 @@
+CollisionShape3D
+MeshInstance3D
+StaticBody3D
+WorldEnvironment
+DirectionalLight3D
+Camera3D
+RigidBody3D
+Camera2D
+CollisionShape2D
+RigidBody2D
+Sprite2D
+Label
+Area3D
